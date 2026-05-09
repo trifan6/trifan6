@@ -15,5 +15,5 @@ I have a strong foundation in backend logic, OOP, and data structures. I enjoy t
 * **[Master C++ (Tutorial Manager)](https://github.com/trifan6/MasterCPP):** A layered-architecture desktop app built with C++ and Qt, utilizing the Command design pattern to support multi-level undo and redo functionality.
 * **[Checkers AI Engine](https://github.com/trifan6/Checkers):** A Python/Pygame Checkers engine using a custom Minimax algorithm with alpha-beta pruning and background threading to maintain UI responsiveness.
 
-📫 **LinkedIn** * [LinkedIn](https://linkedin.com/in/stefan-trifan-39377937a)
+📫 [LinkedIn](https://linkedin.com/in/stefan-trifan-39377937a)
 * Email: trifanstefan66@gmail.com
