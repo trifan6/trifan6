@@ -1,9 +1,8 @@
-# Hi there, I'm Ștefan Trifan 👋
+# Ștefan Trifan
 
-🎓 **Computer Science Student** @ Babeş-Bolyai University (2nd Year)  
-📍 Based in Cluj-Napoca, Romania  
+🎓 CS Student @ Babeş-Bolyai University | 📍 Cluj-Napoca
 
-I have a strong foundation in backend logic, OOP, and data structures. I enjoy tackling complex algorithmic challenges and building robust, multi-threaded applications.
+Just a workspace for my university assignments and personal projects. I mostly focus on backend development and systems programming. 
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Java, C/C++, Python, Assembly, Bash, SQL, MATLAB
