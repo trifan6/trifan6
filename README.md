@@ -2,7 +2,7 @@
 
 🎓 CS Student @ Babeş-Bolyai University | 📍 Cluj-Napoca
 
-Just a workspace for my university assignments and personal projects. I mostly focus on backend development and systems programming. 
+This is the workspace for my university assignments and personal projects. I mostly focus on backend development and systems programming. 
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Java, C/C++, Python, Assembly, Bash, SQL, MATLAB
